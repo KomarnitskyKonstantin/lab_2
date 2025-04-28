@@ -1,6 +1,5 @@
 #include <iostream>
-#include <math.h>
-#include <iomanip> 
+
 int main()
 {
 	float a;
